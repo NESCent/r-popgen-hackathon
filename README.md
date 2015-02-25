@@ -12,6 +12,7 @@ See the [wiki] for full details.
 * [Logistics]
 * [Schedule]
 * [Project ideas]
+* [__Wiki__](https://github.com/NESCent/r-popgen-hackathon/wiki)
 
 ## Social media
 
