@@ -8,17 +8,18 @@ See the [wiki] for full details.
 
 ## Key information
 
-* Participation is by invitation and was determined by an open [Call for Participation].
+* [Participation] is by invitation and was determined by an open [Call for Participation].
 * [Logistics]
 * [Schedule]
 * [Project ideas]
-* [__Wiki__](https://github.com/NESCent/r-popgen-hackathon/wiki)
+* [Wiki](https://github.com/NESCent/r-popgen-hackathon/wiki)
 
 ## Social media
 
 * Twitter hashtag: T.B.D.
 
 [NESCent]: http://nescent.org
+[Participation]: https://github.com/NESCent/r-popgen-hackathon/wiki/Participants
 [Call for Participation]: http://goo.gl/pL62Jd
 [Wiki]: https://github.com/NESCent/r-popgen-hackathon/wiki
 [Logistics]: https://github.com/NESCent/r-popgen-hackathon/wiki/Logistics
