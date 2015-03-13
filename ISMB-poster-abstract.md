@@ -26,4 +26,5 @@ challenges among the many population genetics R packages that already
 exist, and to ultimately help foster an interoperating ecosystem of
 tools and resources for both users and researcher-developers. Here we
 highlight key outcomes of the event, which are all open-source and
-freely available.
+freely available. For details see
+https://github.com/NESCent/r-popgen-hackathon/.
