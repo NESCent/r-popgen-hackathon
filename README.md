@@ -16,7 +16,7 @@ See the [wiki] for full details.
 
 ## Social media
 
-* Twitter hashtag: T.B.D.
+* Twitter hashtag: #Rpophack
 
 [NESCent]: http://nescent.org
 [Participation]: https://github.com/NESCent/r-popgen-hackathon/wiki/Participants
