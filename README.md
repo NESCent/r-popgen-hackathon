@@ -16,7 +16,7 @@ See the [wiki] for full details.
 
 ## Social media
 
-* Twitter hashtag: #Rpophack
+* Twitter hashtag: [#Rpophack]
 
 [NESCent]: http://nescent.org
 [Participation]: https://github.com/NESCent/r-popgen-hackathon/wiki/Participants
@@ -25,3 +25,4 @@ See the [wiki] for full details.
 [Logistics]: https://github.com/NESCent/r-popgen-hackathon/wiki/Logistics
 [Schedule]: https://github.com/NESCent/r-popgen-hackathon/wiki/Schedule
 [Project ideas]: https://github.com/NESCent/r-popgen-hackathon/labels/project%20idea
+[#Rpophack]: https://twitter.com/hashtag/rpophack
